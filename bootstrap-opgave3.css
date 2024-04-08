@@ -1,0 +1,32 @@
+
+img{
+    width: 100%;
+}
+ 
+.navbar{
+    background-color: lightgrey !important;
+}
+
+
+
+.knapbaggrund{
+    background-color: salmon;
+    border-color:darksalmon;
+}
+
+
+
+.card{
+    margin: 10px;
+   
+}
+.some{
+    background-color: lightgray;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    text-decoration: none;
+}
